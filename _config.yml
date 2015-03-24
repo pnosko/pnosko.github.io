@@ -3,7 +3,7 @@
 title:            Peter Parameter
 locale:           en_US
 url:              http://localhost:4000
-url:              //pnosko.github.io
+#url:              //pnosko.github.io
 
 
 # Jekyll configuration
