@@ -107,67 +107,114 @@ experiences:
         - Improved and oversaw internal coding guidelines and mentored colleagues in FP and Scala
         - Led transition to a new architecture {actor system → functional streams}
 
-certifications:
-  title: Certifications
-  list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+# certifications:
+#   title: Certifications
+#   list:
+#   - name: CV Builder
+#     start: 2020
+#     end: 2021
+#     organization: Microsoft
+#     credentialid: 111-222
+#     credentialurl: www.google.com
+#     credentialname: Google
+#     details: |
+#       Details about cert. Lorem ipsum dolor sit amet, consectetur
+#       adipiscing elit.
+#       Nullam eget orci purus. Nullam ultrices neque nibh.
+#       Aenean fermentum, felis vulputate suscipit accumsan,
+#       sem enim bibendum augue, sed convallis arcu lacus at dui.
+#       Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#       Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#       Praesent venenatis erat non augue suscipit consectetur.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+#       Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+#       fringilla vel. Ut euismod, sem sed vulputate venenatis,
+#       justo diam viverra velit, sed rhoncus leo leo eu justo.
+#       Suspendisse placerat risus ante, sed porta nisi blandit at.
+#   - name: Git learning
+#     start: 2019
+#     end:
+#     organization: Microsoft
+#     credentialid: 111-222
+#     credentialurl: www.github.com
+#     credentialname: Github
+#     details: |
+#       Older certification. Lorem ipsum dolor sit amet, consectetur
+#       adipiscing elit.
+#       Nullam eget orci purus. Nullam ultrices neque nibh.
+#       Aenean fermentum, felis vulputate suscipit accumsan,
+#       sem enim bibendum augue, sed convallis arcu lacus at dui.
+#       Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#       Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#       Praesent venenatis erat non augue suscipit consectetur.
 
 skills:
   title: Skills &amp; Proficiency
 
+  # category1: Programming Languages
+  # category2: Frameworks & Libraries
+  # category3: Databases & Messaging
+  # category4: Cloud & DevOps
+  # category5: Methodologies & Practices 
   toolset:
-  - name: Python & Django
-    level: 98%
+  - name: Microservices
+    level: 80%
 
-  - name: Javascript & jQuery
-    level: 98%
+  - name: Event-Driven Architecture
+    level: 80%
 
-  - name: Angular
-    level: 98%
+  - name: UML & ArchiMate
+    level: 80%
 
-  - name: HTML5 & CSS
-    level: 95%
+  - name: REST & GraphQL
+    level: 100%
 
-  - name: Ruby on Rails
-    level: 85%
+  - name: SOA
+    level: 60%
 
-  - name: Sketch & Photoshop
+  - name: Scala
+    level: 80%
+
+  - name: Java
+    level: 80%
+
+  - name: Haskell
+    level: 60%
+
+  - name: SQL & NoSQL
+    level: 80%
+
+  - name: Python
+    level: 60%
+
+  - name: AWS
+    level: 40%
+
+  - name: Kubernetes
+    level: 40%
+
+  - name: Docker
+    level: 40%
+
+  - name: CI/CD
+    level: 80%  
+
+  - name: OpenShift
+    level: 40%
+
+  - name: RedHat SSO
+    level: 60%  
+
+  - name: Akamai
+    level: 40%
+
+  - name: F5
+    level: 40%  
+
+  - name: Akka
+    level: 60%
+
+  - name: Functional Programming
     level: 60%
 
 footer: >
