@@ -13,9 +13,13 @@
     <i class="fas fa-file-pdf"></i>Print
   </button>
 
-  <button onclick="generatePDF()" class="pdf-button d-print-none" id="pdfButton">
+  <!-- <button onclick="generatePDF()" class="pdf-button d-print-none" id="pdfButton">
     <i class="fas fa-file-pdf"></i>PDF
-  </button>
+  </button> -->
+
+  {% if sidebar.pdf %}
+      <a href="{{ sidebar.pdf }}" target="_blank">PDF</a>
+    {% endif %}
 
   <div class="wrapper">
     {% include sidebar.html %}
